@@ -57,12 +57,14 @@ body{
     scroll-behavior: auto;
     margin-right: 5px;
     border-radius: 25px;
+    border: none;
 }
 .top-header .top-right-items .currency select{
 	background-color: #ddd;
     padding: 2px 12px 2px 15px;
     scroll-behavior: auto;
     border-radius: 25px;
+    border: none;
 }
 
 /* Logo Section */

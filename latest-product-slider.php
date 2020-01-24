@@ -12,7 +12,7 @@
                 <!-- Start Product Items -->
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/cycle1.jpg" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/cycle1.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -23,7 +23,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/t-shirt1.png" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/t-shirt1.png" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -34,7 +34,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/laptop1.png" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/laptop1.png" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -56,7 +56,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/headphone1.png" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/headphone1.png" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -67,7 +67,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/bike2.jpg" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/bike2.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -86,7 +86,7 @@
                 <!-- Start Product Items -->
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/cycle1.jpg" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/cycle1.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -97,7 +97,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/t-shirt1.png" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/t-shirt1.png" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -108,7 +108,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/laptop1.png" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/laptop1.png" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -119,7 +119,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/bike2.jpg" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/bike2.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -130,7 +130,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/mobile/mob7.png" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/mobile/mob7.png" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -141,7 +141,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/headphone3.png" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/headphone3.png" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -160,7 +160,7 @@
                 <!-- Start Product Items -->
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/mobile/mob4.png" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/mobile/mob4.png" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -171,7 +171,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/t-shirt1.png" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/t-shirt1.png" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -182,7 +182,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/laptop1.png" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/laptop1.png" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -193,7 +193,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/bike2.jpg" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/bike2.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -204,7 +204,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/laptop1.png" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/laptop1.png" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">Latest LG smart phone</p>
@@ -215,7 +215,7 @@
 
                 <div class="all-carousel col-md-2 col-6">
                   <div class="card product-one" >
-                    <img class="card-img-top" src="images/selled products/headphone2.png" alt="Card image cap">
+                    <a href="single-product.php"><img class="card-img-top" src="images/selled products/headphone2.png" alt="Card image cap"></a>
                     <div class="card-body">
                       <h6>Smart Phone V1</h6>
                       <p class="card-text">This is the latest LG smart phone with</p>
